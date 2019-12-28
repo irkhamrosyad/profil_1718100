@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">profil_1718100</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="email">Email</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="isi">Laki-Laki</string>
+</resources>
