@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">profil_1718100</string>
-    <string name="nama">Irkham Rosyadi</string>
-    <string name="nim">1718100</string>
-    <string name="email">irkhamrosyadi73@Gmail.com</string>
+    <string name="app_name">profile_1718100</string>
+    <string name="nama">Name</string>
+    <string name="nim">Nim</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="isi">Male</string>
 </resources>

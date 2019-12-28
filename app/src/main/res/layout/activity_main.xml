@@ -63,7 +63,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/nama"
+                android:text="Irkham Rosyadi"
                 android:textSize="30sp"
                 android:textStyle="bold"
                 android:layout_marginLeft="30dp"
@@ -88,7 +88,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/nim"
+                android:text="1718100"
                 android:textSize="30sp"
                 android:textStyle="bold"
                 android:layout_marginLeft="30dp"
@@ -113,7 +113,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/email"
+                android:text="irkhamrosyadi73@Gmail.com"
                 android:textSize="25sp"
                 android:textStyle="bold"
                 android:layout_marginLeft="30dp"
